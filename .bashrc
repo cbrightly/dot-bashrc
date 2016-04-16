@@ -5,4 +5,3 @@ fi
 # Personalization (not aliases)
 /usr/local/bin/dynmotd
 cat /usr/local/banner
-byobu
